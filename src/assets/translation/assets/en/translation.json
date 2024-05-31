@@ -1,0 +1,19 @@
+{
+  "labels": {
+    "name": "Name",
+    "price": "Price",
+    "marketCap": "Market Cap",
+    "volume": "Volume",
+    "circulatingSupply": "Circulating Supply",
+    "favourites": "Favourites",
+    "favouritesMessage": "Add to your favourites list",
+    "comingSoon": "Coming Soon"
+  },
+  "messages": {
+    "favouritesListSuccess": "The coin was added to the Favourites list!",
+    "favouritesListError": "The Favourites list can only contain 5 coins!"
+  },
+  "error": {
+    "api": "Error fetching the data"
+  }
+}
